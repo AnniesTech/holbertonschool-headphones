@@ -28,12 +28,6 @@ You will use all HTML/CSS/Accessibility/Responsive design knowledges that you le
    You won’t have a lot of instruction, you are free to implement it the way that you want - the objective is simple: Have a fully functional web page that looks the same as the designer file.
   </p>
   <p>
-   Here the final result:
-  </p>
-  <p>
-   <img alt="" src="https://holbertonintranet.s3.amazonaws.com/uploads/medias/2020/2/60df485eb772ecbad54a.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIARDDGGGOU5BHMTQX4%2F20220814%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20220814T211529Z&amp;X-Amz-Expires=86400&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=4abd515ef72e290839c31efca2f29d4757114e14ffa541045680fe7e2e6e6465" style=""/>
-  </p>
-  <p>
    This webpage has been designed by Nicolas Philippot, UI/UX designer.
 You can find final screens
    <a href="https://intranet-projects-files.s3.amazonaws.com/holbertonschool-webstack/622/Archive.zip" target="_blank" title="here">
